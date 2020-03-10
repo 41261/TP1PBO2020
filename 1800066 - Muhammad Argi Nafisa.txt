@@ -7,7 +7,7 @@ foreach dalam array of object, menampilkan visual dari hasil foreach,
 dynamic button untuk detail barang(bingung saat mengatur behavior button agar bisa ke detil barang)
 
 Hal baru yang dipelajari:
-FlowLayoutPanel, PictureBox, foreach, ComboBox
+FlowLayoutPanel, PictureBox, foreach, ComboBox, FlowLayoutPanel.control.clear()
 
 Fitur yang sudah dikerjakan:
 fitur login, fitur katalog, fitur searching dengan value dari combobox, fitur menampilkan semua barang
