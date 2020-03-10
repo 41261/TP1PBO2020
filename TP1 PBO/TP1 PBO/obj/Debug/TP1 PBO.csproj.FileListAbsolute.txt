@@ -1,0 +1,10 @@
+D:\Programming\PBO Prak\TP1\TP1 PBO\TP1 PBO\bin\Debug\TP1 PBO.exe.config
+D:\Programming\PBO Prak\TP1\TP1 PBO\TP1 PBO\bin\Debug\TP1 PBO.exe
+D:\Programming\PBO Prak\TP1\TP1 PBO\TP1 PBO\bin\Debug\TP1 PBO.pdb
+D:\Programming\PBO Prak\TP1\TP1 PBO\TP1 PBO\obj\Debug\TP1 PBO.csprojAssemblyReference.cache
+D:\Programming\PBO Prak\TP1\TP1 PBO\TP1 PBO\obj\Debug\TP1_PBO.FormLogin.resources
+D:\Programming\PBO Prak\TP1\TP1 PBO\TP1 PBO\obj\Debug\TP1_PBO.Properties.Resources.resources
+D:\Programming\PBO Prak\TP1\TP1 PBO\TP1 PBO\obj\Debug\TP1 PBO.csproj.GenerateResource.cache
+D:\Programming\PBO Prak\TP1\TP1 PBO\TP1 PBO\obj\Debug\TP1 PBO.exe
+D:\Programming\PBO Prak\TP1\TP1 PBO\TP1 PBO\obj\Debug\TP1 PBO.pdb
+D:\Programming\PBO Prak\TP1\TP1 PBO\TP1 PBO\obj\Debug\TP1_PBO.FormMenu.resources

@@ -1,0 +1,13 @@
+Saya Muhammad Argi Nafisa mengerjakan evaluasi TP1 dalam mata kuliah Pemrograman Berorientasi Objek
+untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan.
+Aamiin.
+
+Kesulitan:
+foreach dalam array of object, menampilkan visual dari hasil foreach,
+dynamic button untuk detail barang(bingung saat mengatur behavior button agar bisa ke detil barang)
+
+Hal baru yang dipelajari:
+FlowLayoutPanel, PictureBox, foreach, ComboBox
+
+Fitur yang sudah dikerjakan:
+fitur login, fitur katalog, fitur searching dengan value dari combobox, fitur menampilkan semua barang
